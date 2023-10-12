@@ -50,8 +50,6 @@
 &nbsp;
 &nbsp;
 
-<img src="/mfarias25/mfarias25/raw/master/contributions.svg" style="max-width: 100%;">
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mfarias25}/count.svg" /></p> 
