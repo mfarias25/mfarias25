@@ -50,6 +50,8 @@
 &nbsp;
 &nbsp;
 
+<a href=#><img src="contributions.svg"></a>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mfarias25}/count.svg" /></p> 
