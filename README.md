@@ -50,7 +50,7 @@
 &nbsp;
 &nbsp;
 
-<a href=#><img src="contributions.svg"></a>
+<img src="/mfarias25/mfarias25/raw/master/contributions.svg" style="max-width: 100%;">
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
